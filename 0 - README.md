@@ -1,2 +1,7 @@
-# IBM-Applied-Data-Science-Capstone-Project 
-> > > Winning-Space-Race-with-Data-Science
+# IBM-Applied-Data-Science-Capstone-Project
+
+Title: Winning Space Race with Data Science
+
+Summary: In this project, I assumed that I was a data scientist working for a startup intending to compete with SpaceX. In completing this project, I've followed and applied the data science methodology, which involves data collection, data wrangling, exploratory data analysis, data visualization, model development, model evaluation, and results delivering to fictitious stakeholders. The main objective of this data science project was to predict the landing outcome of SpaceX's Falcon 9 rocket's first stage. SpaceX advertises Falcon 9 rocket launches with a cost of 62 million dollars on its website, which is a whopping 103 million dollars below the cost reported by its competitors (165 million dollars). According to SpaceX, this substantial cost reduction comes from the reusability of the rocket's first stage. Therefore, if we can determine whether the rocket's first stage will fly back to Earth safely or not, we can determine the cost of a launch. In this project, I've applied data science using Python programming to predict the returnability of the rocket's first stage to herald the launch cost. With the findings and models I obtained and developed in this project, the competing startup can make more informed bids against SpaceX for future rocket launches.  
+
+Clarification: This project was submitted to fulfil the requirement for my IBM Data Science Professional Certificate as well as the IBM Applied Data Science Specialization.
